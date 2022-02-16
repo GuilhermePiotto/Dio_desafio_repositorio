@@ -1,1 +1,5 @@
-# Dio_desafio_repositorio
+# Desafio de projeto da DIO 
+Dio desafio repositorio
+
+## links úteis
+[sintaxe Basíca Markdown](https://www.markdownguide.org/)
